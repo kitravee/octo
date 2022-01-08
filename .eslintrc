@@ -28,7 +28,6 @@
   },
   "plugins": ["react", "@typescript-eslint"],
   "rules": {
-
     "no-console": 1,
     "require-jsdoc": "off",
     "import/newline-after-import": ["error", { "count": 1 }],
