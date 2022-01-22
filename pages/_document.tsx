@@ -1,6 +1,6 @@
-import React from "react";
-import Document, { Html, Head, Main, NextScript } from "next/document";
-import { ServerStyleSheet } from "styled-components";
+import React from 'react';
+import Document, { Html, Head, Main, NextScript } from 'next/document';
+import { ServerStyleSheet } from 'styled-components';
 // import theme from "../src/theme";
 
 // https://mui.com/styles/advanced/#next-js
@@ -20,8 +20,8 @@ export default class MyDocument extends Document {
             rel="stylesheet"
           />
           <link
-            rel="stylesheet"
             href="https://fonts.googleapis.com/icon?family=Material+Icons"
+            rel="stylesheet"
           />
         </Head>
         <body>
